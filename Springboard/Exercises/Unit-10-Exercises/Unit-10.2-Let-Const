@@ -1,0 +1,15 @@
+const PI = 3.14;
+PI = 42;
+
+What is the difference between var and let?
+
+-> you can redeclare a variable that was declared with var. With "let" you can only redefine not redeclare a variable.
+
+What is the difference between var and const?
+
+-> you can reassign the value of a variable that was decalred with var. With "const" you cannot redeclare or redefine the value of the variable.
+
+What is hoisting?
+
+-> Hoisting is when you have a variable declared at the top of the scope/function in which they are being
+defined.
